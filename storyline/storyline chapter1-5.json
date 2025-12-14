@@ -1,0 +1,155 @@
+{
+  "overarching_story": "In Lexiconia, Shadow Scribe shattered Vowel Spirits' epic quatrains of doom. As Quatrain Warden, quest realms LOTR-style, HP-mysteries. Gather 4 verse fragments per chapter. Wave 5: Insert vowel to rhyme quatrain, reveal shocking banishment twist. All five forge Victory Ode to vanquish Scribe.",
+  "chapters": [
+    {
+      "title": "Chapter 1: Avalon - Revels of Abundance",
+      "waves": [
+        {
+          "wave": 1,
+          "background": "Avalon's golden hall bustles with mimed feasters in joy, then dread. Slay glutton shades; survivor yields first verse-scroll. (21 words)",
+          "clue": "_ll f__st_d _n th_ g_ld_n h_ll"
+        },
+        {
+          "wave": 2,
+          "background": "Bard's alcove hums faint strums. Mimer gestures soaring tales cut short. Battle harp wraiths; elf offers second scroll. (20 words)",
+          "clue": "_ b_rd str_mm_d t_l_s b_th sh_rt _nd t_ll"
+        },
+        {
+          "wave": 3,
+          "background": "Village hearth, laughers mime peals till encroaching dark. Fight mirth goblins; revelers reveal third from embers. (19 words)",
+          "clue": "L_ught_r r_ng t_ll sh_d_ws f_ll"
+        },
+        {
+          "wave": 4,
+          "background": "Ancient oak groans, seer mimes hearing ominous summons. Vanquish root horrors; she bestows final scroll. (18 words)",
+          "clue": "Th_n __l_r__ h__rd th_ d_rk c_ll!"
+        },
+        {
+          "wave": 5,
+          "riddle": "Bard guardian intones: 'Avalon's revel quatrain breaks! Insert one letter to rhyme it whole, unveil Aeloria's shock!'",
+          "solution": "A\nAll feasted in the golden hall.\nA bard strummed tales both short and tall.\nLaughter rang till shadows fall.\nThen Aeloria heard the dark call!"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 2: Eden - Weave of Echoes",
+      "waves": [
+        {
+          "wave": 1,
+          "background": "Eden's emerald glades, elves mime gathering under boughs. Defeat vine serpents; elder yields first verse-scroll. (19 words)",
+          "clue": "Th_ _lv_s m_t b_n__th t_ll tr__s"
+        },
+        {
+          "wave": 2,
+          "background": "Wreath grove pulses, weavers gesture spells of bliss. Combat leaf phantoms; dryad hands second scroll. (18 words)",
+          "clue": "W__v_ng sp_lls w_th j_yf_l __s_"
+        },
+        {
+          "wave": 3,
+          "background": "Enchanted frieze glows, leader mimes guiding dance. Battle echo sprites; spirit uncovers third verse. (18 words)",
+          "clue": "_l_w_n l_d th_ _nch_nt_d fr__z_"
+        },
+        {
+          "wave": 4,
+          "background": "Shrine shadows stir, seer mimes scribe's sudden strike. Shatter thorn illusions; oracle grants final scroll. (19 words)",
+          "clue": "Scr_b_ _pp__r_d _nd br__ght h_r t_ h_r kn__s!"
+        },
+        {
+          "wave": 5,
+          "riddle": "Weave-warden echoes: 'Eden's weave quatrain unravels! Insert one letter to rhyme it true, expose Elowen's fall!'",
+          "solution": "E\nThe elves met beneath tall trees.\nWeaving spells with joyful ease.\nElowen led the enchanted frieze.\nScribe appeared and brought her to her knees!"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 3: Ithaca - Sight of Insight",
+      "waves": [
+        {
+          "wave": 1,
+          "background": "Ithaca's misty isles, gazers mime shimmering visions. Sink fog krakens; islander yields first verse-scroll. (19 words)",
+          "clue": "_sl_s sh_mm_r_d _n th_ w_z_rd's s_ght"
+        },
+        {
+          "wave": 2,
+          "background": "Beacon tower, sage gestures unlocking hidden flames. Fight riddle imps; ally reveals second scroll. (18 words)",
+          "clue": "_th_ld_n _nl_ck_d s_cr_ts br_ght"
+        },
+        {
+          "wave": 3,
+          "background": "Cliff whispers, seers mime infinite futures unfolding. Dispatch vision wisps; young reveal third verse. (18 words)",
+          "clue": "_sl_nd_rs gl_mps_d f_t_r_s' l_ght"
+        },
+        {
+          "wave": 4,
+          "background": "Spire summit, guardian mimes cloaking in abyss. Unravel thunder colossi; sage bestows final scroll. (19 words)",
+          "clue": "Th_n scr_b_ cl__k_d h_r _n _ndl_ss n_ght!"
+        },
+        {
+          "wave": 5,
+          "riddle": "Sight-keeper booms: 'Ithaca's sight quatrain blinds! Insert one letter to rhyme revelation, shock Ithildin's end!'",
+          "solution": "I\nIsles shimmered in the wizard's sight.\nIthildin unlocked secrets bright.\nIslanders glimpsed futures' light.\nThen scribe cloaked her in endless night!"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 4: Oceania - Dive of Depths",
+      "waves": [
+        {
+          "wave": 1,
+          "background": "Oceania's blue expanses, swimmer mimes guiding currents. Battle maelstrom shades; captain yields first verse-scroll. (20 words)",
+          "clue": "_r_n_r g__d_d _c__n's fl_w"
+        },
+        {
+          "wave": 2,
+          "background": "Reef docks, heroes gesture rowing fierce gales. Combat wind horrors; rower offers second scroll. (18 words)",
+          "clue": "H_r__s r_w_d wh_r_ b_ld w_nds bl_w"
+        },
+        {
+          "wave": 3,
+          "background": "Coral vaults gleam, seekers mime deep treasures. Crush abyss guardians; merfolk reveal third verse. (18 words)",
+          "clue": "_v_r c_r_l, tr__s_r_s gl_w"
+        },
+        {
+          "wave": 4,
+          "background": "Depth shrine quakes, oracle mimes fateful plunge. Shatter tidal behemoths; priestess grants final scroll. (19 words)",
+          "clue": "_r_n_r d_v_, l_st b_l_w!"
+        },
+        {
+          "wave": 5,
+          "riddle": "Depth-lord surges: 'Oceania's dive quatrain sinks! Insert one letter to rhyme depths, astound Oronar's loss!'",
+          "solution": "O\nOronar guided ocean's flow.\nHeroes rowed where bold winds blow.\nOver coral, treasures glow.\nOronar dove, lost below!"
+        }
+      ]
+    },
+    {
+      "title": "Chapter 5: Utopia - Union of Unity",
+      "waves": [
+        {
+          "wave": 1,
+          "background": "Utopia's star fields, uniter mimes hearts entwining. Fell discord fiends; visionary yields first verse-scroll. (20 words)",
+          "clue": "_r__l _n_t_d _s _nd_r s_n"
+        },
+        {
+          "wave": 2,
+          "background": "Harmony meadows, dancers gesture flawless bonds. Combat flare harpies; herd offers second scroll. (17 words)",
+          "clue": "_n_c_rns pr_nc_d _v_ry _n_"
+        },
+        {
+          "wave": 3,
+          "background": "Bliss sanctum glows, chanters mime eternal peace. Free curse worms; guru reveals third verse. (17 words)",
+          "clue": "_t_p__n bl_ss, s_c_nd t_ n_n_"
+        },
+        {
+          "wave": 4,
+          "background": "Apex light fades, seer mimes unraveling curse. Harmonize shadow assaults; sentinel grants final scroll. (19 words)",
+          "clue": "_nt_l th_ scr_b_'s d_rk d__d w_s d_n_!"
+        },
+        {
+          "wave": 5,
+          "riddle": "Union sentinel calls: 'Utopia's union quatrain severs! Insert one letter to rhyme bonds, stun Uriel's doom!'",
+          "solution": "U\nUriel united us under sun.\nUnicorns pranced, every one.\nUtopian bliss, second to none.\nUntil the scribe's dark deed was done!"
+        }
+      ]
+    }
+  ]
+}
